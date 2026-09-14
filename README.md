@@ -83,9 +83,10 @@ Three prerequisites before any clinical use:
 ## Repository contents
 
 ```
-malaria-detection.ipynb    model training and evaluation
-malaria-deck.pdf           project presentation (33 pp.)
-README.md[malaria-detection-deck.pdf](https://github.com/user-attachments/files/32177089/malaria-detection-deck.pdf)
+## Repository contents
+
+- [`malaria-detection-code.ipynb`](malaria-detection-code.ipynb) — model training, evaluation, and result plots
+- [`malaria-detection-deck.pdf`](malaria-detection-deck.pdf) — project presentation (33 pages)
 
 ```
 
